@@ -1,0 +1,4 @@
+#!/bin/sh
+
+./shim.pl daemon --listen http://*:$PORT --mode production
+
